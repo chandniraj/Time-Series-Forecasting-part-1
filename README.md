@@ -1,2 +1,2 @@
-# Time-Series-Forecasting-part-1
+# Time-Series-Forecasting
 Time series forecasting based on Airline Traffic Dataset
